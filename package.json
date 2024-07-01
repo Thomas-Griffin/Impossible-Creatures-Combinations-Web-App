@@ -91,7 +91,7 @@
     "supertest": "^7.0.0",
     "swagger-autogen": "^2.23.7",
     "swagger-ui-express": "^5.0.1",
-    "ts-jest": "^29.1.4",
+    "ts-jest": "^29.1.5",
     "tsx": "^4.15.7",
     "typescript": "^5.4.5",
     "vite-plugin-electron": "^0.28.7",
